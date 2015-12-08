@@ -1,0 +1,19 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+				"properties": {
+				"vin": "1 ",
+				"manufacturer": "emco"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+				 	[52.47707,13.421298 ], [52.47699,13.421253]
+				]
+			}
+		}
+
+	]
+}
