@@ -1,0 +1,312 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"vin": "1 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.47707,13.421298 ], [52.47699,13.421253]
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "1 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.47699,13.421253 ], [52.518005,13.388349]
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "1 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.518005,13.388349 ], [52.492325,13.383251]
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "1 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.492325,13.383251 ], [52.512512,13.323485]
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "10 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.519325,13.455285 ], [52.491573,13.382267]
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "10 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.491573,13.382267 ], [52.524384,13.407819]
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "10 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.524384,13.407819 ], [52.524361,13.407805]
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "10 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.524361,13.407805 ], [52.551048,13.41014]
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "10 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.551048,13.41014 ], [52.550838,13.412621]
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "10 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.550838,13.412621 ], [52.499603,13.433447]
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "10 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.499603,13.433447 ], [52.497746,13.421125]
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "10 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.497746,13.421125 ], [52.550896,13.411708]
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "10 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.550896,13.411708 ], [52.551105,13.411768]
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "10 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.551105,13.411768 ], [52.550941,13.411633]
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "10 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.550941,13.411633 ], [52.551056,13.41165]
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "10 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.551056,13.41165 ], [52.549641,13.386848]
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "10 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.549641,13.386848 ], [52.545586,13.379685]
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "101 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.500435,13.33978 ], [52.500526,13.338999]
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "101 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.500526,13.338999 ], [52.500366,13.339599]
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "101 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.500366,13.339599 ], [52.487694,13.373843]
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "101 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.487694,13.373843 ], [52.489197,13.362967]
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "101 ",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+ [52.489197,13.362967 ], [52.489178,13.36306]
+]
+}
+}
+  ]
+}
