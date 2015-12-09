@@ -1,0 +1,6610 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"vin": "1 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.421298,52.47707 ], [13.388349,52.518005]
+] },
+{ "type": "Point", "coordinates": 13.388349,52.518005}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "10 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.455285,52.519325 ], [13.382267,52.491573]
+] },
+{ "type": "Point", "coordinates": 13.382267,52.491573}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "10 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.382267,52.491573 ], [13.411768,52.551105]
+] },
+{ "type": "Point", "coordinates": 13.411768,52.551105}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "10 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.411768,52.551105 ], [13.379685,52.545586]
+] },
+{ "type": "Point", "coordinates": 13.379685,52.545586}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "101 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.33978,52.500435 ], [13.373843,52.487694]
+] },
+{ "type": "Point", "coordinates": 13.373843,52.487694}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "101 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.373843,52.487694 ], [13.36306,52.489178]
+] },
+{ "type": "Point", "coordinates": 13.36306,52.489178}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "102 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.385775,52.500576 ], [13.387174,52.501587]
+] },
+{ "type": "Point", "coordinates": 13.387174,52.501587}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "102 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.387174,52.501587 ], [13.443825,52.50016]
+] },
+{ "type": "Point", "coordinates": 13.443825,52.50016}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "102 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.443825,52.50016 ], [13.444237,52.497738]
+] },
+{ "type": "Point", "coordinates": 13.444237,52.497738}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "102 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.444237,52.497738 ], [13.408408,52.534233]
+] },
+{ "type": "Point", "coordinates": 13.408408,52.534233}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "103 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.42628,52.530643 ], [13.439035,52.540756]
+] },
+{ "type": "Point", "coordinates": 13.439035,52.540756}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "103 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.439035,52.540756 ], [13.441856,52.53545]
+] },
+{ "type": "Point", "coordinates": 13.441856,52.53545}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "104 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.345095,52.510681 ], [13.345061,52.510834]
+] },
+{ "type": "Point", "coordinates": 13.345061,52.510834}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "106 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.367911,52.509254 ], [13.367982,52.509121]
+] },
+{ "type": "Point", "coordinates": 13.367982,52.509121}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "106 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.367982,52.509121 ], [13.413152,52.541981]
+] },
+{ "type": "Point", "coordinates": 13.413152,52.541981}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "107 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.438315,52.540855 ], [13.414745,52.521011]
+] },
+{ "type": "Point", "coordinates": 13.414745,52.521011}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "107 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.414745,52.521011 ], [13.4149,52.520905]
+] },
+{ "type": "Point", "coordinates": 13.4149,52.520905}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "107 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.4149,52.520905 ], [13.453341,52.503208]
+] },
+{ "type": "Point", "coordinates": 13.453341,52.503208}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "107 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.453341,52.503208 ], [13.434009,52.540531]
+] },
+{ "type": "Point", "coordinates": 13.434009,52.540531}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "107 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.434009,52.540531 ], [13.452382,52.51062]
+] },
+{ "type": "Point", "coordinates": 13.452382,52.51062}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "108 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.327202,52.50148 ], [13.288823,52.513077]
+] },
+{ "type": "Point", "coordinates": 13.288823,52.513077}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "108 ",
+"end_time": "09-00",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.288823,52.513077 ], [13.312135,52.489655]
+] },
+{ "type": "Point", "coordinates": 13.312135,52.489655}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "108 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.312135,52.489655 ], [13.282748,52.51284]
+] },
+{ "type": "Point", "coordinates": 13.282748,52.51284}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "109 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.386555,52.527435 ], [13.412617,52.528728]
+] },
+{ "type": "Point", "coordinates": 13.412617,52.528728}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "109 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.412617,52.528728 ], [13.412227,52.52879]
+] },
+{ "type": "Point", "coordinates": 13.412227,52.52879}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "109 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.412227,52.52879 ], [13.396207,52.531631]
+] },
+{ "type": "Point", "coordinates": 13.396207,52.531631}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "109 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.396207,52.531631 ], [13.443153,52.475876]
+] },
+{ "type": "Point", "coordinates": 13.443153,52.475876}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "109 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.443153,52.475876 ], [13.455102,52.472908]
+] },
+{ "type": "Point", "coordinates": 13.455102,52.472908}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "11 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.349833,52.531322 ], [13.34918,52.531651]
+] },
+{ "type": "Point", "coordinates": 13.34918,52.531651}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "11 ",
+"end_time": "09-00",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.34918,52.531651 ], [13.381333,52.552155]
+] },
+{ "type": "Point", "coordinates": 13.381333,52.552155}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "11 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.381333,52.552155 ], [13.3805,52.552204]
+] },
+{ "type": "Point", "coordinates": 13.3805,52.552204}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "11 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.3805,52.552204 ], [13.381233,52.552059]
+] },
+{ "type": "Point", "coordinates": 13.381233,52.552059}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "110 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.476423,52.502705 ], [13.477288,52.50539]
+] },
+{ "type": "Point", "coordinates": 13.477288,52.50539}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "110 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.477288,52.50539 ], [13.384147,52.529751]
+] },
+{ "type": "Point", "coordinates": 13.384147,52.529751}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "110 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.384147,52.529751 ], [13.428583,52.480259]
+] },
+{ "type": "Point", "coordinates": 13.428583,52.480259}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "111 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.393762,52.489658 ], [13.41464,52.52108]
+] },
+{ "type": "Point", "coordinates": 13.41464,52.52108}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "111 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.41464,52.52108 ], [13.405398,52.534176]
+] },
+{ "type": "Point", "coordinates": 13.405398,52.534176}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "111 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.405398,52.534176 ], [13.418308,52.544502]
+] },
+{ "type": "Point", "coordinates": 13.418308,52.544502}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "111 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.418308,52.544502 ], [13.403323,52.539547]
+] },
+{ "type": "Point", "coordinates": 13.403323,52.539547}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "112 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.421735,52.493099 ], [13.421886,52.493095]
+] },
+{ "type": "Point", "coordinates": 13.421886,52.493095}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "112 ",
+"end_time": "09-00",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.421886,52.493095 ], [13.412581,52.502628]
+] },
+{ "type": "Point", "coordinates": 13.412581,52.502628}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "113 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.293573,52.517765 ], [13.372115,52.51091]
+] },
+{ "type": "Point", "coordinates": 13.372115,52.51091}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "113 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.372115,52.51091 ], [13.3332,52.525497]
+] },
+{ "type": "Point", "coordinates": 13.3332,52.525497}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "113 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.3332,52.525497 ], [13.333141,52.525486]
+] },
+{ "type": "Point", "coordinates": 13.333141,52.525486}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "114 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.37603,52.528538 ], [13.390375,52.522057]
+] },
+{ "type": "Point", "coordinates": 13.390375,52.522057}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "114 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.390375,52.522057 ], [13.403242,52.54665]
+] },
+{ "type": "Point", "coordinates": 13.403242,52.54665}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "114 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.403242,52.54665 ], [13.43765,52.493332]
+] },
+{ "type": "Point", "coordinates": 13.43765,52.493332}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "114 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.43765,52.493332 ], [13.420658,52.532764]
+] },
+{ "type": "Point", "coordinates": 13.420658,52.532764}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "115 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.363778,52.496922 ], [13.454715,52.475513]
+] },
+{ "type": "Point", "coordinates": 13.454715,52.475513}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "116 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.431553,52.545883 ], [13.428278,52.547386]
+] },
+{ "type": "Point", "coordinates": 13.428278,52.547386}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "116 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.428278,52.547386 ], [13.428139,52.547455]
+] },
+{ "type": "Point", "coordinates": 13.428139,52.547455}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "116 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.428139,52.547455 ], [13.428447,52.547424]
+] },
+{ "type": "Point", "coordinates": 13.428447,52.547424}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "116 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.428447,52.547424 ], [13.350522,52.53273]
+] },
+{ "type": "Point", "coordinates": 13.350522,52.53273}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "117 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.305861,52.499809 ], [13.300858,52.489315]
+] },
+{ "type": "Point", "coordinates": 13.300858,52.489315}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "117 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.300858,52.489315 ], [13.322088,52.493198]
+] },
+{ "type": "Point", "coordinates": 13.322088,52.493198}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "117 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.322088,52.493198 ], [13.415227,52.550526]
+] },
+{ "type": "Point", "coordinates": 13.415227,52.550526}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "118 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.429044,52.466152 ], [13.421793,52.465225]
+] },
+{ "type": "Point", "coordinates": 13.421793,52.465225}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "119 ",
+"end_time": "09-00",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.309473,52.49823 ], [13.327202,52.520115]
+] },
+{ "type": "Point", "coordinates": 13.327202,52.520115}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "119 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.327202,52.520115 ], [13.309627,52.498154]
+] },
+{ "type": "Point", "coordinates": 13.309627,52.498154}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "119 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.309627,52.498154 ], [13.294818,52.516811]
+] },
+{ "type": "Point", "coordinates": 13.294818,52.516811}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "119 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.294818,52.516811 ], [13.323645,52.501595]
+] },
+{ "type": "Point", "coordinates": 13.323645,52.501595}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "12 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.38101,52.511047 ], [13.4186,52.498753]
+] },
+{ "type": "Point", "coordinates": 13.4186,52.498753}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "12 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.4186,52.498753 ], [13.464093,52.519531]
+] },
+{ "type": "Point", "coordinates": 13.464093,52.519531}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "12 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.464093,52.519531 ], [13.464122,52.519711]
+] },
+{ "type": "Point", "coordinates": 13.464122,52.519711}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "120 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.363486,52.478397 ], [13.371424,52.492565]
+] },
+{ "type": "Point", "coordinates": 13.371424,52.492565}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "120 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.371424,52.492565 ], [13.36891,52.488243]
+] },
+{ "type": "Point", "coordinates": 13.36891,52.488243}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "121 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.412884,52.497967 ], [13.401208,52.495621]
+] },
+{ "type": "Point", "coordinates": 13.401208,52.495621}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "121 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.401208,52.495621 ], [13.40127,52.495644]
+] },
+{ "type": "Point", "coordinates": 13.40127,52.495644}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "121 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.40127,52.495644 ], [13.413214,52.491665]
+] },
+{ "type": "Point", "coordinates": 13.413214,52.491665}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "121 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.413214,52.491665 ], [13.412621,52.502598]
+] },
+{ "type": "Point", "coordinates": 13.412621,52.502598}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "121 ",
+"end_time": "09-00",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.412621,52.502598 ], [13.412688,52.502571]
+] },
+{ "type": "Point", "coordinates": 13.412688,52.502571}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "121 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.412688,52.502571 ], [13.40072,52.499683]
+] },
+{ "type": "Point", "coordinates": 13.40072,52.499683}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "123 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.455287,52.528164 ], [13.45529,52.528179]
+] },
+{ "type": "Point", "coordinates": 13.45529,52.528179}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "124 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.403368,52.528042 ], [13.467089,52.516071]
+] },
+{ "type": "Point", "coordinates": 13.467089,52.516071}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "124 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.467089,52.516071 ], [13.381565,52.501099]
+] },
+{ "type": "Point", "coordinates": 13.381565,52.501099}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "126 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.424943,52.499149 ], [13.454357,52.50272]
+] },
+{ "type": "Point", "coordinates": 13.454357,52.50272}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "126 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.454357,52.50272 ], [13.463185,52.508305]
+] },
+{ "type": "Point", "coordinates": 13.463185,52.508305}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "126 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.463185,52.508305 ], [13.445539,52.499153]
+] },
+{ "type": "Point", "coordinates": 13.445539,52.499153}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "126 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.445539,52.499153 ], [13.411005,52.496994]
+] },
+{ "type": "Point", "coordinates": 13.411005,52.496994}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "127 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.434096,52.532017 ], [13.41197,52.528034]
+] },
+{ "type": "Point", "coordinates": 13.41197,52.528034}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "127 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.41197,52.528034 ], [13.384142,52.538536]
+] },
+{ "type": "Point", "coordinates": 13.384142,52.538536}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "127 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.384142,52.538536 ], [13.297401,52.511852]
+] },
+{ "type": "Point", "coordinates": 13.297401,52.511852}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "127 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.297401,52.511852 ], [13.319433,52.502335]
+] },
+{ "type": "Point", "coordinates": 13.319433,52.502335}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "129 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.408845,52.541206 ], [13.443477,52.481075]
+] },
+{ "type": "Point", "coordinates": 13.443477,52.481075}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "129 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.443477,52.481075 ], [13.388908,52.493977]
+] },
+{ "type": "Point", "coordinates": 13.388908,52.493977}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "129 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.388908,52.493977 ], [13.384972,52.497719]
+] },
+{ "type": "Point", "coordinates": 13.384972,52.497719}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "129 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.384972,52.497719 ], [13.378845,52.527546]
+] },
+{ "type": "Point", "coordinates": 13.378845,52.527546}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "129 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.378845,52.527546 ], [13.471272,52.510929]
+] },
+{ "type": "Point", "coordinates": 13.471272,52.510929}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "13 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.426568,52.480942 ], [13.419295,52.523933]
+] },
+{ "type": "Point", "coordinates": 13.419295,52.523933}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "130 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.444299,52.529156 ], [13.432968,52.536446]
+] },
+{ "type": "Point", "coordinates": 13.432968,52.536446}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "130 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.432968,52.536446 ], [13.43298,52.536407]
+] },
+{ "type": "Point", "coordinates": 13.43298,52.536407}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "131 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.418556,52.551579 ], [13.41835,52.551357]
+] },
+{ "type": "Point", "coordinates": 13.41835,52.551357}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "131 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.41835,52.551357 ], [13.418487,52.551426]
+] },
+{ "type": "Point", "coordinates": 13.418487,52.551426}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "131 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.418487,52.551426 ], [13.418303,52.551285]
+] },
+{ "type": "Point", "coordinates": 13.418303,52.551285}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "132 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.476024,52.504139 ], [13.476318,52.504055]
+] },
+{ "type": "Point", "coordinates": 13.476318,52.504055}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "135 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.340933,52.505009 ], [13.458205,52.494953]
+] },
+{ "type": "Point", "coordinates": 13.458205,52.494953}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "135 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.458205,52.494953 ], [13.403711,52.51371]
+] },
+{ "type": "Point", "coordinates": 13.403711,52.51371}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "135 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.403711,52.51371 ], [13.460413,52.507561]
+] },
+{ "type": "Point", "coordinates": 13.460413,52.507561}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "135 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.460413,52.507561 ], [13.465114,52.519352]
+] },
+{ "type": "Point", "coordinates": 13.465114,52.519352}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "136 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.369453,52.525814 ], [13.410747,52.530468]
+] },
+{ "type": "Point", "coordinates": 13.410747,52.530468}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "136 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.410747,52.530468 ], [13.389236,52.519028]
+] },
+{ "type": "Point", "coordinates": 13.389236,52.519028}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "136 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.389236,52.519028 ], [13.38491,52.552269]
+] },
+{ "type": "Point", "coordinates": 13.38491,52.552269}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "137 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.351165,52.540707 ], [13.349901,52.541645]
+] },
+{ "type": "Point", "coordinates": 13.349901,52.541645}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "137 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.349901,52.541645 ], [13.365267,52.547359]
+] },
+{ "type": "Point", "coordinates": 13.365267,52.547359}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "137 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.365267,52.547359 ], [13.35,52.541641]
+] },
+{ "type": "Point", "coordinates": 13.35,52.541641}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "137 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.35,52.541641 ], [13.360713,52.545567]
+] },
+{ "type": "Point", "coordinates": 13.360713,52.545567}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "137 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.360713,52.545567 ], [13.34989,52.541752]
+] },
+{ "type": "Point", "coordinates": 13.34989,52.541752}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "138 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.315908,52.494087 ], [13.316038,52.494217]
+] },
+{ "type": "Point", "coordinates": 13.316038,52.494217}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "139 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.438557,52.502758 ], [13.449007,52.499054]
+] },
+{ "type": "Point", "coordinates": 13.449007,52.499054}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "14 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.39179,52.5252 ], [13.369455,52.544273]
+] },
+{ "type": "Point", "coordinates": 13.369455,52.544273}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "14 ",
+"end_time": "09-00",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.369455,52.544273 ], [13.406348,52.525085]
+] },
+{ "type": "Point", "coordinates": 13.406348,52.525085}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "14 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.406348,52.525085 ], [13.378837,52.507298]
+] },
+{ "type": "Point", "coordinates": 13.378837,52.507298}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "14 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.378837,52.507298 ], [13.398818,52.492996]
+] },
+{ "type": "Point", "coordinates": 13.398818,52.492996}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "14 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.398818,52.492996 ], [13.418121,52.505001]
+] },
+{ "type": "Point", "coordinates": 13.418121,52.505001}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "140 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.42879,52.482834 ], [13.427565,52.489346]
+] },
+{ "type": "Point", "coordinates": 13.427565,52.489346}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "140 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.427565,52.489346 ], [13.427577,52.489334]
+] },
+{ "type": "Point", "coordinates": 13.427577,52.489334}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "140 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.427577,52.489334 ], [13.42754,52.489285]
+] },
+{ "type": "Point", "coordinates": 13.42754,52.489285}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "140 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.42754,52.489285 ], [13.385485,52.472511]
+] },
+{ "type": "Point", "coordinates": 13.385485,52.472511}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "142 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.477857,52.513947 ], [13.448992,52.516434]
+] },
+{ "type": "Point", "coordinates": 13.448992,52.516434}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "142 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.448992,52.516434 ], [13.40142,52.533157]
+] },
+{ "type": "Point", "coordinates": 13.40142,52.533157}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "143 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.43065,52.506207 ], [13.32792,52.531078]
+] },
+{ "type": "Point", "coordinates": 13.32792,52.531078}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "143 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.32792,52.531078 ], [13.385928,52.52824]
+] },
+{ "type": "Point", "coordinates": 13.385928,52.52824}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "143 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.385928,52.52824 ], [13.453959,52.52232]
+] },
+{ "type": "Point", "coordinates": 13.453959,52.52232}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "144 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.460437,52.507519 ], [13.423813,52.496273]
+] },
+{ "type": "Point", "coordinates": 13.423813,52.496273}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "144 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.423813,52.496273 ], [13.423979,52.496216]
+] },
+{ "type": "Point", "coordinates": 13.423979,52.496216}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "144 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.423979,52.496216 ], [13.400554,52.494728]
+] },
+{ "type": "Point", "coordinates": 13.400554,52.494728}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "144 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.400554,52.494728 ], [13.400373,52.494778]
+] },
+{ "type": "Point", "coordinates": 13.400373,52.494778}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "145 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.445349,52.473656 ], [13.417935,52.490208]
+] },
+{ "type": "Point", "coordinates": 13.417935,52.490208}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "145 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.417935,52.490208 ], [13.417742,52.490215]
+] },
+{ "type": "Point", "coordinates": 13.417742,52.490215}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "145 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.417742,52.490215 ], [13.3595,52.539555]
+] },
+{ "type": "Point", "coordinates": 13.3595,52.539555}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "145 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.3595,52.539555 ], [13.342067,52.502316]
+] },
+{ "type": "Point", "coordinates": 13.342067,52.502316}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "16 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.432332,52.529163 ], [13.381802,52.504482]
+] },
+{ "type": "Point", "coordinates": 13.381802,52.504482}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "18 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.34509,52.516487 ], [13.345186,52.516441]
+] },
+{ "type": "Point", "coordinates": 13.345186,52.516441}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "19 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.384789,52.550587 ], [13.384903,52.55077]
+] },
+{ "type": "Point", "coordinates": 13.384903,52.55077}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "19 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.384903,52.55077 ], [13.41188,52.528469]
+] },
+{ "type": "Point", "coordinates": 13.41188,52.528469}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "19 ",
+"end_time": "09-00",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.41188,52.528469 ], [13.3881,52.521027]
+] },
+{ "type": "Point", "coordinates": 13.3881,52.521027}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "19 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.3881,52.521027 ], [13.393111,52.525043]
+] },
+{ "type": "Point", "coordinates": 13.393111,52.525043}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "19 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.393111,52.525043 ], [13.411966,52.540455]
+] },
+{ "type": "Point", "coordinates": 13.411966,52.540455}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "2 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.380638,52.484936 ], [13.38084,52.485134]
+] },
+{ "type": "Point", "coordinates": 13.38084,52.485134}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "2 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.38084,52.485134 ], [13.380968,52.484993]
+] },
+{ "type": "Point", "coordinates": 13.380968,52.484993}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "21 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.32818,52.484219 ], [13.408312,52.486969]
+] },
+{ "type": "Point", "coordinates": 13.408312,52.486969}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "22 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.335524,52.49041 ], [13.335395,52.490417]
+] },
+{ "type": "Point", "coordinates": 13.335395,52.490417}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "23 ",
+"end_time": "09-00",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.438537,52.528988 ], [13.438492,52.528877]
+] },
+{ "type": "Point", "coordinates": 13.438492,52.528877}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "23 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.438492,52.528877 ], [13.438497,52.52895]
+] },
+{ "type": "Point", "coordinates": 13.438497,52.52895}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "24 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.385005,52.468719 ], [13.385077,52.46883]
+] },
+{ "type": "Point", "coordinates": 13.385077,52.46883}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "24 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.385077,52.46883 ], [13.385018,52.468739]
+] },
+{ "type": "Point", "coordinates": 13.385018,52.468739}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "25 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.355017,52.480621 ], [13.430483,52.489433]
+] },
+{ "type": "Point", "coordinates": 13.430483,52.489433}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "25 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.430483,52.489433 ], [13.432402,52.49028]
+] },
+{ "type": "Point", "coordinates": 13.432402,52.49028}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "26 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.370615,52.489777 ], [13.370758,52.489727]
+] },
+{ "type": "Point", "coordinates": 13.370758,52.489727}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "26 ",
+"end_time": "09-00",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.370758,52.489727 ], [13.344767,52.507931]
+] },
+{ "type": "Point", "coordinates": 13.344767,52.507931}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "26 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.344767,52.507931 ], [13.332457,52.525688]
+] },
+{ "type": "Point", "coordinates": 13.332457,52.525688}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "26 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.332457,52.525688 ], [13.415143,52.550251]
+] },
+{ "type": "Point", "coordinates": 13.415143,52.550251}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "26 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.415143,52.550251 ], [13.437732,52.536125]
+] },
+{ "type": "Point", "coordinates": 13.437732,52.536125}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "27 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.361678,52.522934 ], [13.395082,52.518291]
+] },
+{ "type": "Point", "coordinates": 13.395082,52.518291}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "27 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.395082,52.518291 ], [13.395123,52.51836]
+] },
+{ "type": "Point", "coordinates": 13.395123,52.51836}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "27 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.395123,52.51836 ], [13.424084,52.496296]
+] },
+{ "type": "Point", "coordinates": 13.424084,52.496296}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "27 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.424084,52.496296 ], [13.420974,52.497662]
+] },
+{ "type": "Point", "coordinates": 13.420974,52.497662}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "27 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.420974,52.497662 ], [13.448925,52.499313]
+] },
+{ "type": "Point", "coordinates": 13.448925,52.499313}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "28 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.438972,52.488754 ], [13.438798,52.488647]
+] },
+{ "type": "Point", "coordinates": 13.438798,52.488647}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "28 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.438798,52.488647 ], [13.43411,52.490162]
+] },
+{ "type": "Point", "coordinates": 13.43411,52.490162}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "28 ",
+"end_time": "09-00",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.43411,52.490162 ], [13.401267,52.527973]
+] },
+{ "type": "Point", "coordinates": 13.401267,52.527973}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "3 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.402594,52.52351 ], [13.441838,52.498096]
+] },
+{ "type": "Point", "coordinates": 13.441838,52.498096}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "3 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.441838,52.498096 ], [13.416882,52.491959]
+] },
+{ "type": "Point", "coordinates": 13.416882,52.491959}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "3 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.416882,52.491959 ], [13.429555,52.494678]
+] },
+{ "type": "Point", "coordinates": 13.429555,52.494678}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "3 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.429555,52.494678 ], [13.429472,52.49448]
+] },
+{ "type": "Point", "coordinates": 13.429472,52.49448}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "3 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.429472,52.49448 ], [13.473743,52.514839]
+] },
+{ "type": "Point", "coordinates": 13.473743,52.514839}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "31 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.43232,52.505512 ], [13.450978,52.473957]
+] },
+{ "type": "Point", "coordinates": 13.450978,52.473957}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "31 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.450978,52.473957 ], [13.452193,52.474945]
+] },
+{ "type": "Point", "coordinates": 13.452193,52.474945}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "31 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.452193,52.474945 ], [13.418404,52.495918]
+] },
+{ "type": "Point", "coordinates": 13.418404,52.495918}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "31 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.418404,52.495918 ], [13.417223,52.495548]
+] },
+{ "type": "Point", "coordinates": 13.417223,52.495548}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "32 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.28937,52.517796 ], [13.368049,52.523964]
+] },
+{ "type": "Point", "coordinates": 13.368049,52.523964}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "32 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.368049,52.523964 ], [13.373337,52.53117]
+] },
+{ "type": "Point", "coordinates": 13.373337,52.53117}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "33 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.44728,52.521786 ], [13.448544,52.518318]
+] },
+{ "type": "Point", "coordinates": 13.448544,52.518318}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "34 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.394535,52.486435 ], [13.45741,52.516411]
+] },
+{ "type": "Point", "coordinates": 13.45741,52.516411}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "35 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.467813,52.514473 ], [13.467934,52.514339]
+] },
+{ "type": "Point", "coordinates": 13.467934,52.514339}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "35 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.467934,52.514339 ], [13.38205,52.501686]
+] },
+{ "type": "Point", "coordinates": 13.38205,52.501686}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "35 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.38205,52.501686 ], [13.381043,52.503933]
+] },
+{ "type": "Point", "coordinates": 13.381043,52.503933}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "35 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.381043,52.503933 ], [13.34792,52.499115]
+] },
+{ "type": "Point", "coordinates": 13.34792,52.499115}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "35 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.34792,52.499115 ], [13.39087,52.503418]
+] },
+{ "type": "Point", "coordinates": 13.39087,52.503418}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "37 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.407565,52.521317 ], [13.411652,52.528149]
+] },
+{ "type": "Point", "coordinates": 13.411652,52.528149}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "37 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.411652,52.528149 ], [13.320768,52.478672]
+] },
+{ "type": "Point", "coordinates": 13.320768,52.478672}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "37 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.320768,52.478672 ], [13.342237,52.531822]
+] },
+{ "type": "Point", "coordinates": 13.342237,52.531822}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "39 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.436745,52.511433 ], [13.407538,52.531666]
+] },
+{ "type": "Point", "coordinates": 13.407538,52.531666}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "39 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.407538,52.531666 ], [13.421335,52.47694]
+] },
+{ "type": "Point", "coordinates": 13.421335,52.47694}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "4 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.358833,52.520325 ], [13.358871,52.520462]
+] },
+{ "type": "Point", "coordinates": 13.358871,52.520462}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "4 ",
+"end_time": "09-00",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.358871,52.520462 ], [13.354323,52.52668]
+] },
+{ "type": "Point", "coordinates": 13.354323,52.52668}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "4 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.354323,52.52668 ], [13.354537,52.526558]
+] },
+{ "type": "Point", "coordinates": 13.354537,52.526558}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "4 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.354537,52.526558 ], [13.354303,52.52668]
+] },
+{ "type": "Point", "coordinates": 13.354303,52.52668}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "40 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.42606,52.478233 ], [13.455655,52.473396]
+] },
+{ "type": "Point", "coordinates": 13.455655,52.473396}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "40 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.455655,52.473396 ], [13.428208,52.501205]
+] },
+{ "type": "Point", "coordinates": 13.428208,52.501205}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "41 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.328542,52.533878 ], [13.387935,52.520473]
+] },
+{ "type": "Point", "coordinates": 13.387935,52.520473}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "41 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.387935,52.520473 ], [13.385995,52.528366]
+] },
+{ "type": "Point", "coordinates": 13.385995,52.528366}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "41 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.385995,52.528366 ], [13.417717,52.54327]
+] },
+{ "type": "Point", "coordinates": 13.417717,52.54327}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "41 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.417717,52.54327 ], [13.344209,52.501492]
+] },
+{ "type": "Point", "coordinates": 13.344209,52.501492}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "43 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.354983,52.480583 ], [13.355055,52.480564]
+] },
+{ "type": "Point", "coordinates": 13.355055,52.480564}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "43 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.355055,52.480564 ], [13.41866,52.51506]
+] },
+{ "type": "Point", "coordinates": 13.41866,52.51506}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "43 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.41866,52.51506 ], [13.418685,52.515118]
+] },
+{ "type": "Point", "coordinates": 13.418685,52.515118}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "43 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.418685,52.515118 ], [13.418365,52.514946]
+] },
+{ "type": "Point", "coordinates": 13.418365,52.514946}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "44 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.402746,52.528061 ], [13.40276,52.52816]
+] },
+{ "type": "Point", "coordinates": 13.40276,52.52816}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "44 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.40276,52.52816 ], [13.398467,52.537502]
+] },
+{ "type": "Point", "coordinates": 13.398467,52.537502}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "44 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.398467,52.537502 ], [13.37545,52.510223]
+] },
+{ "type": "Point", "coordinates": 13.37545,52.510223}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "44 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.37545,52.510223 ], [13.429617,52.480446]
+] },
+{ "type": "Point", "coordinates": 13.429617,52.480446}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "45 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.38561,52.468975 ], [13.393019,52.489212]
+] },
+{ "type": "Point", "coordinates": 13.393019,52.489212}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "45 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.393019,52.489212 ], [13.385632,52.50034]
+] },
+{ "type": "Point", "coordinates": 13.385632,52.50034}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "45 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.385632,52.50034 ], [13.43656,52.498337]
+] },
+{ "type": "Point", "coordinates": 13.43656,52.498337}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "46 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.300787,52.530113 ], [13.464312,52.51762]
+] },
+{ "type": "Point", "coordinates": 13.464312,52.51762}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "46 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.464312,52.51762 ], [13.467359,52.514435]
+] },
+{ "type": "Point", "coordinates": 13.467359,52.514435}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "46 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.467359,52.514435 ], [13.460682,52.523819]
+] },
+{ "type": "Point", "coordinates": 13.460682,52.523819}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "47 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.2835,52.497604 ], [13.283477,52.497578]
+] },
+{ "type": "Point", "coordinates": 13.283477,52.497578}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "48 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.376385,52.489452 ], [13.376872,52.48674]
+] },
+{ "type": "Point", "coordinates": 13.376872,52.48674}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "48 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.376872,52.48674 ], [13.382585,52.48317]
+] },
+{ "type": "Point", "coordinates": 13.382585,52.48317}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "48 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.382585,52.48317 ], [13.382477,52.48317]
+] },
+{ "type": "Point", "coordinates": 13.382477,52.48317}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "49 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.374117,52.509357 ], [13.41297,52.528145]
+] },
+{ "type": "Point", "coordinates": 13.41297,52.528145}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "49 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.41297,52.528145 ], [13.412858,52.528118]
+] },
+{ "type": "Point", "coordinates": 13.412858,52.528118}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "49 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.412858,52.528118 ], [13.386804,52.490345]
+] },
+{ "type": "Point", "coordinates": 13.386804,52.490345}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "49 ",
+"end_time": "09-00",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.386804,52.490345 ], [13.460575,52.494152]
+] },
+{ "type": "Point", "coordinates": 13.460575,52.494152}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "49 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.460575,52.494152 ], [13.438153,52.531536]
+] },
+{ "type": "Point", "coordinates": 13.438153,52.531536}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "49 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.438153,52.531536 ], [13.434542,52.530853]
+] },
+{ "type": "Point", "coordinates": 13.434542,52.530853}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "5 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.43771,52.536106 ], [13.428783,52.536037]
+] },
+{ "type": "Point", "coordinates": 13.428783,52.536037}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "5 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.428783,52.536037 ], [13.437912,52.535873]
+] },
+{ "type": "Point", "coordinates": 13.437912,52.535873}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "5 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.437912,52.535873 ], [13.333357,52.524696]
+] },
+{ "type": "Point", "coordinates": 13.333357,52.524696}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "50 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.42534,52.479214 ], [13.425372,52.479115]
+] },
+{ "type": "Point", "coordinates": 13.425372,52.479115}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "50 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.425372,52.479115 ], [13.425299,52.47929]
+] },
+{ "type": "Point", "coordinates": 13.425299,52.47929}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "50 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.425299,52.47929 ], [13.369186,52.485088]
+] },
+{ "type": "Point", "coordinates": 13.369186,52.485088}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "51 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.42405,52.49749 ], [13.403852,52.513725]
+] },
+{ "type": "Point", "coordinates": 13.403852,52.513725}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "51 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.403852,52.513725 ], [13.469015,52.514236]
+] },
+{ "type": "Point", "coordinates": 13.469015,52.514236}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "51 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.469015,52.514236 ], [13.47327,52.514874]
+] },
+{ "type": "Point", "coordinates": 13.47327,52.514874}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "51 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.47327,52.514874 ], [13.432867,52.49485]
+] },
+{ "type": "Point", "coordinates": 13.432867,52.49485}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "52 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.423,52.549885 ], [13.402788,52.54874]
+] },
+{ "type": "Point", "coordinates": 13.402788,52.54874}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "54 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.450882,52.477276 ], [13.458328,52.491787]
+] },
+{ "type": "Point", "coordinates": 13.458328,52.491787}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "55 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.39052,52.489555 ], [13.434087,52.48312]
+] },
+{ "type": "Point", "coordinates": 13.434087,52.48312}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "55 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.434087,52.48312 ], [13.455047,52.473125]
+] },
+{ "type": "Point", "coordinates": 13.455047,52.473125}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "55 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.455047,52.473125 ], [13.4537,52.517448]
+] },
+{ "type": "Point", "coordinates": 13.4537,52.517448}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "55 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.4537,52.517448 ], [13.4267,52.534004]
+] },
+{ "type": "Point", "coordinates": 13.4267,52.534004}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "56 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.369445,52.525764 ], [13.347152,52.520206]
+] },
+{ "type": "Point", "coordinates": 13.347152,52.520206}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "56 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.347152,52.520206 ], [13.347085,52.519753]
+] },
+{ "type": "Point", "coordinates": 13.347085,52.519753}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "58 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.349022,52.489342 ], [13.359962,52.483685]
+] },
+{ "type": "Point", "coordinates": 13.359962,52.483685}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "58 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.359962,52.483685 ], [13.360032,52.483822]
+] },
+{ "type": "Point", "coordinates": 13.360032,52.483822}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "59 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.342082,52.494846 ], [13.289412,52.49786]
+] },
+{ "type": "Point", "coordinates": 13.289412,52.49786}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "59 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.289412,52.49786 ], [13.289438,52.497833]
+] },
+{ "type": "Point", "coordinates": 13.289438,52.497833}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "59 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.289438,52.497833 ], [13.289443,52.497803]
+] },
+{ "type": "Point", "coordinates": 13.289443,52.497803}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "6 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.395255,52.508144 ], [13.364555,52.48637]
+] },
+{ "type": "Point", "coordinates": 13.364555,52.48637}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "6 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.364555,52.48637 ], [13.364345,52.486149]
+] },
+{ "type": "Point", "coordinates": 13.364345,52.486149}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "6 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.364345,52.486149 ], [13.364647,52.486317]
+] },
+{ "type": "Point", "coordinates": 13.364647,52.486317}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "60 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.372592,52.527584 ], [13.351613,52.542793]
+] },
+{ "type": "Point", "coordinates": 13.351613,52.542793}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "60 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.351613,52.542793 ], [13.445923,52.520988]
+] },
+{ "type": "Point", "coordinates": 13.445923,52.520988}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "61 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.431782,52.510494 ], [13.415578,52.527481]
+] },
+{ "type": "Point", "coordinates": 13.415578,52.527481}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "61 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.415578,52.527481 ], [13.390105,52.50938]
+] },
+{ "type": "Point", "coordinates": 13.390105,52.50938}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "61 ",
+"end_time": "09-00",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.390105,52.50938 ], [13.450323,52.503883]
+] },
+{ "type": "Point", "coordinates": 13.450323,52.503883}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "61 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.450323,52.503883 ], [13.388146,52.526241]
+] },
+{ "type": "Point", "coordinates": 13.388146,52.526241}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "61 ",
+"end_time": "09-00",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.388146,52.526241 ], [13.399504,52.522831]
+] },
+{ "type": "Point", "coordinates": 13.399504,52.522831}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "61 ",
+"end_time": "09-00",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.399504,52.522831 ], [13.388023,52.521618]
+] },
+{ "type": "Point", "coordinates": 13.388023,52.521618}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "62 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.374043,52.50938 ], [13.412895,52.527969]
+] },
+{ "type": "Point", "coordinates": 13.412895,52.527969}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "62 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.412895,52.527969 ], [13.412943,52.528107]
+] },
+{ "type": "Point", "coordinates": 13.412943,52.528107}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "62 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.412943,52.528107 ], [13.415987,52.5383]
+] },
+{ "type": "Point", "coordinates": 13.415987,52.5383}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "62 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.415987,52.5383 ], [13.382887,52.524078]
+] },
+{ "type": "Point", "coordinates": 13.382887,52.524078}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "62 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.382887,52.524078 ], [13.451094,52.510868]
+] },
+{ "type": "Point", "coordinates": 13.451094,52.510868}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "62 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.451094,52.510868 ], [13.460814,52.515984]
+] },
+{ "type": "Point", "coordinates": 13.460814,52.515984}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "64 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.309995,52.525021 ], [13.309934,52.524963]
+] },
+{ "type": "Point", "coordinates": 13.309934,52.524963}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "65 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.416014,52.538383 ], [13.416721,52.528416]
+] },
+{ "type": "Point", "coordinates": 13.416721,52.528416}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "65 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.416721,52.528416 ], [13.422155,52.535271]
+] },
+{ "type": "Point", "coordinates": 13.422155,52.535271}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "65 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.422155,52.535271 ], [13.449115,52.499249]
+] },
+{ "type": "Point", "coordinates": 13.449115,52.499249}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "66 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.456712,52.50964 ], [13.40563,52.513805]
+] },
+{ "type": "Point", "coordinates": 13.40563,52.513805}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "66 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.40563,52.513805 ], [13.380908,52.532253]
+] },
+{ "type": "Point", "coordinates": 13.380908,52.532253}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "66 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.380908,52.532253 ], [13.430857,52.506157]
+] },
+{ "type": "Point", "coordinates": 13.430857,52.506157}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "66 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.430857,52.506157 ], [13.465448,52.517357]
+] },
+{ "type": "Point", "coordinates": 13.465448,52.517357}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "68 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.428792,52.539715 ], [13.41306,52.49057]
+] },
+{ "type": "Point", "coordinates": 13.41306,52.49057}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "68 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.41306,52.49057 ], [13.3968,52.486656]
+] },
+{ "type": "Point", "coordinates": 13.3968,52.486656}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "68 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.3968,52.486656 ], [13.341405,52.485546]
+] },
+{ "type": "Point", "coordinates": 13.341405,52.485546}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "69 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.356045,52.496883 ], [13.394238,52.486469]
+] },
+{ "type": "Point", "coordinates": 13.394238,52.486469}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "69 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.394238,52.486469 ], [13.359774,52.497059]
+] },
+{ "type": "Point", "coordinates": 13.359774,52.497059}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "7 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.430643,52.502445 ], [13.409072,52.49012]
+] },
+{ "type": "Point", "coordinates": 13.409072,52.49012}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "7 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.409072,52.49012 ], [13.33709,52.487648]
+] },
+{ "type": "Point", "coordinates": 13.33709,52.487648}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "7 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.33709,52.487648 ], [13.336763,52.487541]
+] },
+{ "type": "Point", "coordinates": 13.336763,52.487541}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "70 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.386993,52.488964 ], [13.383015,52.491611]
+] },
+{ "type": "Point", "coordinates": 13.383015,52.491611}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "70 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.383015,52.491611 ], [13.382983,52.491417]
+] },
+{ "type": "Point", "coordinates": 13.382983,52.491417}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "70 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.382983,52.491417 ], [13.427597,52.53125]
+] },
+{ "type": "Point", "coordinates": 13.427597,52.53125}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "70 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.427597,52.53125 ], [13.427577,52.531242]
+] },
+{ "type": "Point", "coordinates": 13.427577,52.531242}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "71 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.387005,52.552456 ], [13.434154,52.540634]
+] },
+{ "type": "Point", "coordinates": 13.434154,52.540634}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "71 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.434154,52.540634 ], [13.434098,52.540585]
+] },
+{ "type": "Point", "coordinates": 13.434098,52.540585}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "72 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.382604,52.483463 ], [13.38275,52.483414]
+] },
+{ "type": "Point", "coordinates": 13.38275,52.483414}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "72 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.38275,52.483414 ], [13.382927,52.483315]
+] },
+{ "type": "Point", "coordinates": 13.382927,52.483315}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "72 ",
+"end_time": "09-00",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.382927,52.483315 ], [13.407918,52.524284]
+] },
+{ "type": "Point", "coordinates": 13.407918,52.524284}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "72 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.407918,52.524284 ], [13.376924,52.508293]
+] },
+{ "type": "Point", "coordinates": 13.376924,52.508293}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "72 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.376924,52.508293 ], [13.391394,52.500553]
+] },
+{ "type": "Point", "coordinates": 13.391394,52.500553}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "75 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.423365,52.477383 ], [13.423435,52.477245]
+] },
+{ "type": "Point", "coordinates": 13.423435,52.477245}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "76 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.335814,52.484646 ], [13.446693,52.498375]
+] },
+{ "type": "Point", "coordinates": 13.446693,52.498375}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "76 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.446693,52.498375 ], [13.378143,52.507801]
+] },
+{ "type": "Point", "coordinates": 13.378143,52.507801}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "76 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.378143,52.507801 ], [13.369204,52.492844]
+] },
+{ "type": "Point", "coordinates": 13.369204,52.492844}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "76 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.369204,52.492844 ], [13.385012,52.489937]
+] },
+{ "type": "Point", "coordinates": 13.385012,52.489937}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "77 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.39748,52.529572 ], [13.360955,52.527565]
+] },
+{ "type": "Point", "coordinates": 13.360955,52.527565}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "77 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.360955,52.527565 ], [13.376775,52.529972]
+] },
+{ "type": "Point", "coordinates": 13.376775,52.529972}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "78 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.457497,52.51326 ], [13.462361,52.512001]
+] },
+{ "type": "Point", "coordinates": 13.462361,52.512001}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "78 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.462361,52.512001 ], [13.45113,52.523727]
+] },
+{ "type": "Point", "coordinates": 13.45113,52.523727}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "78 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.45113,52.523727 ], [13.42137,52.494324]
+] },
+{ "type": "Point", "coordinates": 13.42137,52.494324}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "78 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.42137,52.494324 ], [13.421237,52.494499]
+] },
+{ "type": "Point", "coordinates": 13.421237,52.494499}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "79 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.406052,52.505447 ], [13.411736,52.52179]
+] },
+{ "type": "Point", "coordinates": 13.411736,52.52179}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "79 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.411736,52.52179 ], [13.428857,52.510609]
+] },
+{ "type": "Point", "coordinates": 13.428857,52.510609}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "79 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.428857,52.510609 ], [13.42873,52.510616]
+] },
+{ "type": "Point", "coordinates": 13.42873,52.510616}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "79 ",
+"end_time": "09-00",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.42873,52.510616 ], [13.429073,52.510555]
+] },
+{ "type": "Point", "coordinates": 13.429073,52.510555}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "8 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.369753,52.524212 ], [13.36965,52.524155]
+] },
+{ "type": "Point", "coordinates": 13.36965,52.524155}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "8 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.36965,52.524155 ], [13.454191,52.522274]
+] },
+{ "type": "Point", "coordinates": 13.454191,52.522274}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "8 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.454191,52.522274 ], [13.408965,52.531322]
+] },
+{ "type": "Point", "coordinates": 13.408965,52.531322}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "8 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.408965,52.531322 ], [13.396125,52.534401]
+] },
+{ "type": "Point", "coordinates": 13.396125,52.534401}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "80 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.344178,52.478165 ], [13.361402,52.48299]
+] },
+{ "type": "Point", "coordinates": 13.361402,52.48299}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "80 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.361402,52.48299 ], [13.361268,52.482925]
+] },
+{ "type": "Point", "coordinates": 13.361268,52.482925}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "80 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.361268,52.482925 ], [13.415627,52.490082]
+] },
+{ "type": "Point", "coordinates": 13.415627,52.490082}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "80 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.415627,52.490082 ], [13.443758,52.482922]
+] },
+{ "type": "Point", "coordinates": 13.443758,52.482922}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "80 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.443758,52.482922 ], [13.332267,52.504047]
+] },
+{ "type": "Point", "coordinates": 13.332267,52.504047}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "82 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.426567,52.543835 ], [13.339788,52.527676]
+] },
+{ "type": "Point", "coordinates": 13.339788,52.527676}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "82 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.339788,52.527676 ], [13.327443,52.527599]
+] },
+{ "type": "Point", "coordinates": 13.327443,52.527599}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "82 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.327443,52.527599 ], [13.294838,52.516949]
+] },
+{ "type": "Point", "coordinates": 13.294838,52.516949}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "83 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.422123,52.547928 ], [13.426607,52.546371]
+] },
+{ "type": "Point", "coordinates": 13.426607,52.546371}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "83 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.426607,52.546371 ], [13.426779,52.546238]
+] },
+{ "type": "Point", "coordinates": 13.426779,52.546238}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "83 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.426779,52.546238 ], [13.365276,52.482018]
+] },
+{ "type": "Point", "coordinates": 13.365276,52.482018}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "84 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.382902,52.512131 ], [13.29491,52.516708]
+] },
+{ "type": "Point", "coordinates": 13.29491,52.516708}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "84 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.29491,52.516708 ], [13.389948,52.529289]
+] },
+{ "type": "Point", "coordinates": 13.389948,52.529289}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "84 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.389948,52.529289 ], [13.380861,52.532372]
+] },
+{ "type": "Point", "coordinates": 13.380861,52.532372}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "84 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.380861,52.532372 ], [13.43077,52.506203]
+] },
+{ "type": "Point", "coordinates": 13.43077,52.506203}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "86 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.412195,52.528275 ], [13.431171,52.532242]
+] },
+{ "type": "Point", "coordinates": 13.431171,52.532242}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "86 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.431171,52.532242 ], [13.458328,52.512547]
+] },
+{ "type": "Point", "coordinates": 13.458328,52.512547}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "86 ",
+"end_time": "09-00",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.458328,52.512547 ], [13.457983,52.51263]
+] },
+{ "type": "Point", "coordinates": 13.457983,52.51263}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "86 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.457983,52.51263 ], [13.470217,52.513912]
+] },
+{ "type": "Point", "coordinates": 13.470217,52.513912}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "86 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.470217,52.513912 ], [13.388077,52.526318]
+] },
+{ "type": "Point", "coordinates": 13.388077,52.526318}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "86 ",
+"end_time": "09-00",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.388077,52.526318 ], [13.399544,52.522835]
+] },
+{ "type": "Point", "coordinates": 13.399544,52.522835}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "87 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.455798,52.473461 ], [13.390991,52.50135]
+] },
+{ "type": "Point", "coordinates": 13.390991,52.50135}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "87 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.390991,52.50135 ], [13.391454,52.501396]
+] },
+{ "type": "Point", "coordinates": 13.391454,52.501396}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "87 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.391454,52.501396 ], [13.447231,52.498322]
+] },
+{ "type": "Point", "coordinates": 13.447231,52.498322}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "87 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.447231,52.498322 ], [13.412969,52.490425]
+] },
+{ "type": "Point", "coordinates": 13.412969,52.490425}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "87 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.412969,52.490425 ], [13.377582,52.508308]
+] },
+{ "type": "Point", "coordinates": 13.377582,52.508308}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "88 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.422136,52.47752 ], [13.419873,52.489212]
+] },
+{ "type": "Point", "coordinates": 13.419873,52.489212}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "88 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.419873,52.489212 ], [13.425342,52.494411]
+] },
+{ "type": "Point", "coordinates": 13.425342,52.494411}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "89 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.40524,52.524853 ], [13.39922,52.535095]
+] },
+{ "type": "Point", "coordinates": 13.39922,52.535095}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "89 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.39922,52.535095 ], [13.391533,52.520367]
+] },
+{ "type": "Point", "coordinates": 13.391533,52.520367}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "89 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.391533,52.520367 ], [13.391465,52.520405]
+] },
+{ "type": "Point", "coordinates": 13.391465,52.520405}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "89 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.391465,52.520405 ], [13.445996,52.522346]
+] },
+{ "type": "Point", "coordinates": 13.445996,52.522346}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "89 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.445996,52.522346 ], [13.471015,52.515232]
+] },
+{ "type": "Point", "coordinates": 13.471015,52.515232}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "89 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.471015,52.515232 ], [13.41251,52.550926]
+] },
+{ "type": "Point", "coordinates": 13.41251,52.550926}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "91 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.368045,52.524151 ], [13.293623,52.517612]
+] },
+{ "type": "Point", "coordinates": 13.293623,52.517612}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "91 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.293623,52.517612 ], [13.368948,52.488304]
+] },
+{ "type": "Point", "coordinates": 13.368948,52.488304}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "91 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.368948,52.488304 ], [13.3893,52.489716]
+] },
+{ "type": "Point", "coordinates": 13.3893,52.489716}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "91 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.3893,52.489716 ], [13.389287,52.489697]
+] },
+{ "type": "Point", "coordinates": 13.389287,52.489697}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "93 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.417381,52.495399 ], [13.417314,52.495689]
+] },
+{ "type": "Point", "coordinates": 13.417314,52.495689}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "93 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.417314,52.495689 ], [13.41744,52.495502]
+] },
+{ "type": "Point", "coordinates": 13.41744,52.495502}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "93 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.41744,52.495502 ], [13.416813,52.491829]
+] },
+{ "type": "Point", "coordinates": 13.416813,52.491829}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "93 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.416813,52.491829 ], [13.44224,52.498295]
+] },
+{ "type": "Point", "coordinates": 13.44224,52.498295}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "93 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.44224,52.498295 ], [13.41754,52.492382]
+] },
+{ "type": "Point", "coordinates": 13.41754,52.492382}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "94 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.465881,52.499741 ], [13.428342,52.480083]
+] },
+{ "type": "Point", "coordinates": 13.428342,52.480083}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "94 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.428342,52.480083 ], [13.428391,52.480274]
+] },
+{ "type": "Point", "coordinates": 13.428391,52.480274}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "94 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.428391,52.480274 ], [13.364487,52.498764]
+] },
+{ "type": "Point", "coordinates": 13.364487,52.498764}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "94 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.364487,52.498764 ], [13.410855,52.49934]
+] },
+{ "type": "Point", "coordinates": 13.410855,52.49934}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "95 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.41009,52.522346 ], [13.438768,52.542309]
+] },
+{ "type": "Point", "coordinates": 13.438768,52.542309}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "95 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.438768,52.542309 ], [13.453959,52.522343]
+] },
+{ "type": "Point", "coordinates": 13.453959,52.522343}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "95 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.453959,52.522343 ], [13.454062,52.522224]
+] },
+{ "type": "Point", "coordinates": 13.454062,52.522224}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "96 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.315362,52.501865 ], [13.370673,52.489841]
+] },
+{ "type": "Point", "coordinates": 13.370673,52.489841}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "96 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.370673,52.489841 ], [13.36903,52.488621]
+] },
+{ "type": "Point", "coordinates": 13.36903,52.488621}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "96 ",
+"end_time": "09-00",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.36903,52.488621 ], [13.345926,52.507713]
+] },
+{ "type": "Point", "coordinates": 13.345926,52.507713}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "96 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.345926,52.507713 ], [13.345715,52.508049]
+] },
+{ "type": "Point", "coordinates": 13.345715,52.508049}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "96 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.345715,52.508049 ], [13.470012,52.502373]
+] },
+{ "type": "Point", "coordinates": 13.470012,52.502373}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "97 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.382818,52.51125 ], [13.389637,52.536957]
+] },
+{ "type": "Point", "coordinates": 13.389637,52.536957}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "97 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.389637,52.536957 ], [13.382051,52.523983]
+] },
+{ "type": "Point", "coordinates": 13.382051,52.523983}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "98 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.4242,52.475754 ], [13.442126,52.510792]
+] },
+{ "type": "Point", "coordinates": 13.442126,52.510792}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "98 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.442126,52.510792 ], [13.42763,52.504555]
+] },
+{ "type": "Point", "coordinates": 13.42763,52.504555}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "99 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.4462,52.522011 ], [13.402865,52.521557]
+] },
+{ "type": "Point", "coordinates": 13.402865,52.521557}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "99 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.402865,52.521557 ], [13.419478,52.53088]
+] },
+{ "type": "Point", "coordinates": 13.419478,52.53088}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "99 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.419478,52.53088 ], [13.416137,52.53833]
+] },
+{ "type": "Point", "coordinates": 13.416137,52.53833}
+]
+}
+}
+,
+{
+"type": "Feature",
+"properties": {
+"vin": "99 ",
+"end_time": "08-30",
+"manufacturer": "emco"
+},
+"geometry": {
+"type": "GeometryCollection", "geometries": [
+{ "type": "LineString",
+"coordinates": [
+ [13.416137,52.53833 ], [13.377515,52.528004]
+] },
+{ "type": "Point", "coordinates": 13.377515,52.528004}
+]
+}
+}
+  ]
+}
