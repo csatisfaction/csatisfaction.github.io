@@ -27,9 +27,7 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [
             [128.84, -25.76], [128.18, -25.60]
-          ]
         ]
       }
     },
