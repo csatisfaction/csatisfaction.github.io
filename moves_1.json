@@ -3,9 +3,13 @@
 	"features": [
 		{
 			"type": "Feature",
-				"properties": {
+			"properties": {
 				"vin": "1 ",
-				"manufacturer": "emco"
+				"manufacturer": "emco",
+				        "letter": "G",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
 			},
 			"geometry": {
 				"type": "LineString",
